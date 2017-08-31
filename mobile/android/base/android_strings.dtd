@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "結束時，清除隱私資料">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; 將會在您選擇主選單中的「離開」時自動清除您的資料">
 <!ENTITY pref_clear_on_exit_dialog_title "選擇要清除的資料">
-<!ENTITY pref_plugins "外掛程式">
-<!ENTITY pref_plugins_enabled "啟用">
-<!ENTITY pref_plugins_tap_to_play2 "觸碰以顯示">
-<!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_restore_tabs "還原分頁">
 <!ENTITY pref_restore_always "總是還原">
 <!ENTITY pref_restore_quit "不要在離開 &brandShortName; 後還原">
@@ -851,3 +847,4 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "歡迎來到您的重點事項清單">
 <!ENTITY activity_stream_welcome_content1 "現在起，&brandShortName; 會為您在網路上發現的新事物建立重點事項清單，這樣您就可以快速地回到這些文章、影片、書籤等頁面。">
+<!ENTITY fullscreen_warning "已進入全螢幕模式">
